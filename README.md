@@ -1,2 +1,2 @@
 # firstrep
-we are in git101 session
+we are not in git101 session
